@@ -178,7 +178,7 @@
 	var song = new Audio();
 	var currentSong = 0;
 
-	window.onload = playSong();
+	window.onload = playSong;
 
 	function playSong(){
 		song.src = songs[currentSong];
