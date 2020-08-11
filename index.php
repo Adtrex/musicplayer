@@ -132,7 +132,7 @@
 			<img src="icons/skip-start-fill.svg" alt="" width="32" height="32" title="Bootstrap">
 			</button>
 			<button id="play" class="btn play-btn" onclick="playOrPauseSong()">
-			<img src="icons/pause.svg" alt="" width="32" height="32" title="Bootstrap">
+			<img alt="" width="32" height="32" title="Bootstrap">
 			</button>
 			<button class="btn" onclick="next()">
 			<img src="icons/skip-end-fill.svg" alt="" width="32" height="32" title="Bootstrap">
